@@ -1,2 +1,3 @@
 # cs4hs
-FirstGo
+#FirstGo
+This is a project used to experiment with Github
