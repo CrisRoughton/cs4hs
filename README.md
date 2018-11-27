@@ -1,3 +1,3 @@
 # cs4hs
 #FirstGo
-This is a project used to experiment with Github
+#This is just plain writing for a branch. This is on Feature - a second branch. Readme is just about the file. 
